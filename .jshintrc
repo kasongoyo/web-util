@@ -1,0 +1,15 @@
+{
+    "esversion": 6,
+    "node": true,
+    "bitwise": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin":true,
+    "noarg": true,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "strict": true,
+    "shadow":"outer",
+    "mocha": true
+}
